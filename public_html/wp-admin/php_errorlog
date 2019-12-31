@@ -1,0 +1,15 @@
+[30-Dec-2019 16:25:40 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[30-Dec-2019 16:25:40 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[30-Dec-2019 16:25:40 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[30-Dec-2019 16:25:40 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[30-Dec-2019 16:25:40 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[30-Dec-2019 16:25:40 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[30-Dec-2019 16:25:40 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[30-Dec-2019 18:33:15 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/customer/www/sanjin-official.com/public_html/wp-includes/class-wp-block-parser.php on line 417
+[30-Dec-2019 18:33:15 UTC] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/customer/www/sanjin-official.com/public_html/wp-includes/class-wp-block-parser.php on line 489
+[30-Dec-2019 18:33:23 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/customer/www/sanjin-official.com/public_html/wp-includes/class-wp-block-parser.php on line 417
+[30-Dec-2019 18:33:23 UTC] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/customer/www/sanjin-official.com/public_html/wp-includes/class-wp-block-parser.php on line 489
+[30-Dec-2019 18:33:28 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/customer/www/sanjin-official.com/public_html/wp-includes/class-wp-block-parser.php on line 417
+[30-Dec-2019 18:33:28 UTC] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/customer/www/sanjin-official.com/public_html/wp-includes/class-wp-block-parser.php on line 489
+[30-Dec-2019 18:33:28 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/customer/www/sanjin-official.com/public_html/wp-includes/class-wp-block-parser.php on line 417
+[30-Dec-2019 18:33:28 UTC] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/customer/www/sanjin-official.com/public_html/wp-includes/class-wp-block-parser.php on line 489
