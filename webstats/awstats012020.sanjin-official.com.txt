@@ -1,0 +1,280 @@
+AWSTATS DATA FILE 7.7 (build 20161204)
+# If you remove this file, all statistics for date 202001 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.sanjin-official.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2002                
+POS_TIME 2685                
+POS_VISITOR 3415                
+POS_DAY 3672                
+POS_DOMAIN 3843                
+POS_LOGIN 4085                
+POS_ROBOT 4240                
+POS_WORMS 4487                
+POS_EMAILSENDER 4618                
+POS_EMAILRECEIVER 4761                
+POS_SESSION 4837                
+POS_SIDER 5005                
+POS_FILETYPES 6048                
+POS_DOWNLOADS 6298                
+POS_OS 6398                
+POS_BROWSER 6495                
+POS_SCREENSIZE 6634                
+POS_UNKNOWNREFERER 6708                
+POS_UNKNOWNREFERERBROWSER 6795                
+POS_ORIGIN 6877                
+POS_SEREFERRALS 7013                
+POS_PAGEREFS 7157                
+POS_SEARCHWORDS 7305                
+POS_KEYWORDS 7457                
+POS_MISC 2349                
+POS_ERRORS 7516                
+POS_CLUSTER 3941                
+POS_SIDER_404 7632                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200102041616 21439 7753639 0
+FirstTime 20200101172348
+LastTime 20200102035551
+LastUpdate 20200102042743 21439 17863 2131 0 1445
+TotalVisits 6                   
+TotalUnique 4                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 4                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 3 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 2 2 324
+1 0 0 0 0 0 0
+2 0 0 0 1 1 162
+3 1 1 913 4 4 360
+4 0 0 0 1 1 162
+5 0 0 0 0 0 0
+6 0 0 0 1 1 162
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 1 1 162
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 1 1 162
+13 0 0 0 2 2 324
+14 0 0 0 0 0 0
+15 0 0 0 4 4 1080
+16 0 0 0 1 1 162
+17 223 252 6072574 45 45 1383
+18 21 24 658817 4 5 255
+19 197 397 58838108 47 58 2233
+20 1 1 1018 3 3 162
+21 6 7 11310078 3 5 355
+22 0 0 0 0 0 0
+23 0 0 0 4 4 2483
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 4
+83.251.146.199 428 614 29496792 20200101192302
+83.254.239.25 13 34 11366696 20200101213545
+83.185.38.44 7 83 7749015 20200101193406
+111.7.100.20 1 1 913 20200102035551 20200102035551 /
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20200101 448 681 76880595 5
+20200102 1 1 913 1
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+se 448 681 48612503
+cn 1 1 913
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+wordpress 63 1953 20200102035550 0
+no_user_agent 1 2285 20200101235205 0
+DomainSONOCrawler/ 1 913 20200101153309 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+15mn-30mn 1
+0s-30s 2
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 27
+/wp-admin/admin-ajax.php 194 1056100 0 1
+/ 80 1003427 4 3
+/3197-2/ 65 1139620 0 1
+/contact/ 36 568458 0 0
+/wp-admin/post.php 29 10032410 0 0
+/about/ 11 179734 0 0
+/wp-admin/ 3 263997 0 0
+/3218-2/ 3 47662 0 0
+/wp-admin/nav-menus.php 3 272353 0 0
+/wp-admin/edit.php 3 245727 0 0
+/wp-admin/async-upload.php 1 1856 0 0
+/product/t-shirt/ 1 16682 0 0
+/something/ 2 33636 0 0
+/wp-admin/load-scripts.php 1 15721 0 0
+/wp-admin/customize.php 1 132936 0 0
+/wp-login.php 2 3878 2 0
+/wp-json/wp/v2/users/me 1 420 0 0
+/wp-content/themes/salient/css/fonts/fontawesome-webfont.woff 2 196048 0 0
+/wp-json/wp/v2/users/ 1 500 0 0
+/wp-admin/themes.php 1 0 0 0
+/wp-admin/options-general.php 2 151635 0 0
+/wp-admin/load-styles.php 1 7760 0 0
+/wp-admin/widgets.php 1 103112 0 0
+/wp-json/wp/v2/media/3078 1 1661 0 0
+/wp-admin/admin.php 1 176860 0 0
+/wp-content/themes/salient/css/fonts/icomoon.woff 2 41832 0 0
+/wp-json/wp/v2/taxonomies 1 851 0 0
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 77 817093 0 0
+woff 4 237880 0 0
+php 240 12200348 0 0
+html 202 3253716 0 0
+jpg 20 2846178 0 0
+png 2 44060 0 0
+js 94 672826 0 0
+jpeg 35 106942 0 0
+Unknown 3 2932 0 0
+svg 5 163349 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/wp-content/uploads/2019/12/intro.m4v 0 50 28268092
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 2
+ios_iphone 131 22
+win10 601 427
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 4
+chrome72.0.3626.119 1 1
+chrome79.0.3945.88 600 426
+safari13.0.4 14 2
+safari12.1.2 117 20
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 18 40
+From1 0 0
+From2 0 0
+From3 0 0
+From4 431 692
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 27 15
+499 12 0
+404 1 67
+301 30 4698
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1
+/wp-admin/admin-ajax.php 1 https://sanjin-official.com/wp-admin/customize.php
+END_SIDER_404
