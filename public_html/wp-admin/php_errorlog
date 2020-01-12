@@ -17,3 +17,11 @@
 [01-Jan-2020 19:19:35 UTC] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/customer/www/sanjin-official.com/public_html/wp-includes/class-wp-block-parser.php on line 489
 [02-Jan-2020 18:54:07 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/customer/www/sanjin-official.com/public_html/wp-includes/class-wp-block-parser.php on line 417
 [02-Jan-2020 18:54:07 UTC] PHP Warning:  strlen() expects parameter 1 to be string, array given in /home/customer/www/sanjin-official.com/public_html/wp-includes/class-wp-block-parser.php on line 489
+[06-Jan-2020 18:25:03 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/customer/www/sanjin-official.com/public_html/wp-content/themes/salient-child/functions.php on line 79
+[06-Jan-2020 19:01:58 UTC] PHP Parse error:  syntax error, unexpected ''crop'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/customer/www/sanjin-official.com/public_html/wp-content/themes/salient-child/functions.php on line 82
+[06-Jan-2020 19:02:33 UTC] PHP Parse error:  syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/customer/www/sanjin-official.com/public_html/wp-content/themes/salient-child/functions.php on line 81
+[10-Jan-2020 11:14:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/sanjin-official.com/public_html/wp-content/themes/salient-child/functions.php on line 85
+[11-Jan-2020 18:19:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/sanjin-official.com/public_html/wp-content/themes/salient-child/functions.php on line 144
+[12-Jan-2020 16:52:55 UTC] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home/customer/www/sanjin-official.com/public_html/wp-content/themes/salient-child/functions.php on line 69
+[12-Jan-2020 17:25:38 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/sanjin-official.com/public_html/wp-content/themes/salient-child/functions.php on line 78
+[12-Jan-2020 17:26:05 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/customer/www/sanjin-official.com/public_html/wp-content/themes/salient-child/functions.php on line 78

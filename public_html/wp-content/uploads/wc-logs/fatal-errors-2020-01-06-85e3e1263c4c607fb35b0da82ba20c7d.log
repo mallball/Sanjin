@@ -1,0 +1,6 @@
+2020-01-06T18:25:03+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /home/customer/www/sanjin-official.com/public_html/wp-content/themes/salient-child/functions.php on line 79
+
+2020-01-06T19:01:58+00:00 CRITICAL syntax error, unexpected ''crop'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/customer/www/sanjin-official.com/public_html/wp-content/themes/salient-child/functions.php on line 82
+
+2020-01-06T19:02:33+00:00 CRITICAL syntax error, unexpected ''height'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/customer/www/sanjin-official.com/public_html/wp-content/themes/salient-child/functions.php on line 81
+

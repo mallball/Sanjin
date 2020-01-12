@@ -41,19 +41,11 @@ function your_prefix_wc_remove_uncategorized_from_breadcrumb( $crumbs ) {
 add_filter( 'woocommerce_get_breadcrumb', 'your_prefix_wc_remove_uncategorized_from_breadcrumb' );
 
 
-// Remove related products WooCommerce
-function iconic_remove_related_products() {
-    remove_action( 'woocommerce_after_single_product_summary', 'woocommerce_output_related_products', 20 );
-}
-add_action( 'init', 'iconic_remove_related_products', 10 );
-
-
 // Change url in breadcrumb WooCommerce
 add_filter( 'woocommerce_breadcrumb_home_url', 'woo_custom_breadrumb_home_url' );
 function woo_custom_breadrumb_home_url() {
     return 'https://sanjin-official.com/shop';
 }
-
 
 // Remove shop from breadcrumb WoooCommerce
 add_filter( 'woocommerce_get_breadcrumb', 'remove_shop_crumb', 20, 2 );
@@ -67,9 +59,20 @@ function remove_shop_crumb( $crumbs, $breadcrumb ){
     return $crumbs;
 }
 
+// Rename home to store in breadcrumb WoooCommerce
 add_filter( 'woocommerce_breadcrumb_defaults', 'wcc_change_breadcrumb_home_text' );
 function wcc_change_breadcrumb_home_text( $defaults ) {
 	$defaults['home'] = 'Store';
 	return $defaults;
 }
+
+
+// Remove related products WooCommerce
+function iconic_remove_related_products() {
+    remove_action( 'woocommerce_after_single_product_summary', 'woocommerce_output_related_products', 20 );
+}
+add_action( 'init', 'iconic_remove_related_products', 10 );
+
+
+
 ?>

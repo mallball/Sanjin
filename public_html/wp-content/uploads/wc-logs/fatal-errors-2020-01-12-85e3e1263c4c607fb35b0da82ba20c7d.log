@@ -1,0 +1,6 @@
+2020-01-12T16:52:55+00:00 CRITICAL syntax error, unexpected '*', expecting end of file in /home/customer/www/sanjin-official.com/public_html/wp-content/themes/salient-child/functions.php on line 69
+
+2020-01-12T17:25:38+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/sanjin-official.com/public_html/wp-content/themes/salient-child/functions.php on line 78
+
+2020-01-12T17:26:05+00:00 CRITICAL syntax error, unexpected 'return' (T_RETURN) in /home/customer/www/sanjin-official.com/public_html/wp-content/themes/salient-child/functions.php on line 78
+

@@ -8,33 +8,33 @@ AWSTATS DATA FILE 7.7 (build 20161204)
 # update).
 BEGIN_MAP 28
 POS_GENERAL 2002                
-POS_TIME 2688                
-POS_VISITOR 7437                
-POS_DAY 8242                
-POS_DOMAIN 3439                
-POS_LOGIN 3712                
-POS_ROBOT 3867                
-POS_WORMS 4280                
-POS_EMAILSENDER 4411                
-POS_EMAILRECEIVER 4554                
-POS_SESSION 8389                
-POS_SIDER 8585                
-POS_FILETYPES 4689                
-POS_DOWNLOADS 5022                
-POS_OS 5124                
-POS_BROWSER 5295                
-POS_SCREENSIZE 5631                
-POS_UNKNOWNREFERER 5705                
-POS_UNKNOWNREFERERBROWSER 5852                
-POS_ORIGIN 5994                
-POS_SEREFERRALS 6134                
-POS_PAGEREFS 6278                
-POS_SEARCHWORDS 6426                
-POS_KEYWORDS 6578                
-POS_MISC 2351                
-POS_ERRORS 6637                
-POS_CLUSTER 3568                
-POS_SIDER_404 6799                
+POS_TIME 2687                
+POS_VISITOR 8242                
+POS_DAY 9616                
+POS_DOMAIN 3546                
+POS_LOGIN 3869                
+POS_ROBOT 4024                
+POS_WORMS 4556                
+POS_EMAILSENDER 4687                
+POS_EMAILRECEIVER 4830                
+POS_SESSION 9959                
+POS_SIDER 10156               
+POS_FILETYPES 4965                
+POS_DOWNLOADS 5326                
+POS_OS 5536                
+POS_BROWSER 5739                
+POS_SCREENSIZE 6295                
+POS_UNKNOWNREFERER 6369                
+POS_UNKNOWNREFERERBROWSER 6590                
+POS_ORIGIN 6766                
+POS_SEREFERRALS 6908                
+POS_PAGEREFS 7052                
+POS_SEARCHWORDS 7200                
+POS_KEYWORDS 7352                
+POS_MISC 2350                
+POS_ERRORS 7411                
+POS_CLUSTER 3725                
+POS_SIDER_404 7604                
 END_MAP
 
 # LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
@@ -46,14 +46,14 @@ END_MAP
 # MonthHostsKnown   = Number of hosts known
 # MonthHostsUnKnown = Number of hosts unknown
 BEGIN_GENERAL 8
-LastLine 20200103235542 32768 11705697 0
+LastLine 20200111214649 53830 19173064 0
 FirstTime 20200101172348
-LastTime 20200103222700
-LastUpdate 20200104042758 32768 19994 10360 0 2414
-TotalVisits 28                  
-TotalUnique 18                  
+LastTime 20200111213228
+LastUpdate 20200112042925 53830 41887 8193 1 3749
+TotalVisits 56                  
+TotalUnique 32                  
 MonthHostsKnown 0                   
-MonthHostsUnknown 18                  
+MonthHostsUnknown 32                  
 END_GENERAL
 
 # Misc ID - Pages - Hits - Bandwidth
@@ -63,7 +63,7 @@ JavaEnabled 0 0 0
 JavascriptDisabled 0 0 0
 PDFSupport 0 0 0
 WindowsMediaPlayerSupport 0 0 0
-AddToFavourites 0 17 0
+AddToFavourites 0 38 0
 RealPlayerSupport 0 0 0
 TotalMisc 0 0 0
 DirectorSupport 0 0 0
@@ -72,39 +72,43 @@ END_MISC
 
 # Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
 BEGIN_TIME 24
-0 0 0 0 2 2 324
-1 0 0 0 0 0 0
-2 0 0 0 1 1 162
+0 204 346 7194928 145 145 1839
+1 14 14 12825 30 30 2400
+2 0 0 0 25 72 344762
 3 2 8 43997 11 11 908
-4 0 0 0 19 54 258658
-5 0 0 0 5 18 87037
-6 0 0 0 1 1 162
-7 0 0 0 4 6 1354
-8 2 8 43997 10 12 1463
-9 0 0 0 1 1 162
-10 209 422 25411184 101 104 215232
-11 167 233 10717177 46 46 1245
-12 349 451 22573611 84 85 3509
-13 224 319 9267892 94 104 47500
-14 636 1598 50935036 99 141 23916
-15 522 640 15865469 103 112 4884
-16 50 50 7936 41 41 1185
-17 255 284 6162540 65 65 2134
-18 421 994 64773018 141 188 93328
-19 827 2404 229719522 196 230 124462
-20 532 1050 159198104 108 165 12389
-21 507 715 38932805 95 104 4524
-22 29 45 6406973 9 9 384
-23 87 171 9073541 53 56 3768
+4 0 0 0 20 55 258820
+5 1 7 43084 12 26 87528
+6 0 0 0 20 24 34288
+7 0 0 0 17 25 5385
+8 4 16 87994 16 19 3643
+9 1 1 1018 10 12 35263
+10 461 829 55180019 230 233 217216
+11 983 1230 104267469 225 227 200843
+12 580 766 59203565 194 195 6206
+13 793 930 31073352 200 211 130363
+14 802 1787 64822471 201 243 25977
+15 874 1344 121247942 201 226 10947
+16 979 2840 273499199 250 258 6032
+17 834 1289 69295469 194 195 7853
+18 1542 3139 130766961 514 564 3898385
+19 1814 4894 280453342 439 474 3289770
+20 935 1914 186288629 248 305 16760
+21 1173 2397 132934993 284 299 52076
+22 563 1372 268793802 173 182 9575
+23 731 1076 25949258 156 159 954147
 END_TIME
 
 # Domain - Pages - Hits - Bandwidth
 # The 10 first Pages must be first (order not required for others)
-BEGIN_DOMAIN 4
-se 4806 9361 439806241
+BEGIN_DOMAIN 8
+se 13247 26118 1219184056
+us 27 51 199529
 cn 6 18 89820
-us 6 12 49031
-ca 1 1 913
+ca 4 4 913
+de 2 2 11934
+at 2 4 4764
+es 1 1 913
+gr 1 1 0
 END_DOMAIN
 
 # Cluster ID - Pages - Hits - Bandwidth
@@ -118,15 +122,18 @@ END_LOGIN
 
 # Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
 # The 10 first Hits must be first (order not required for others)
-BEGIN_ROBOT 8
-wordpress 793 67331 20200103222700 0
-baidu 56 344692 20200103050019 0
-no_user_agent 8 2285 20200102132345 0
+BEGIN_ROBOT 11
+wordpress 2280 7560197 20200111214649 0
+baidu 118 731715 20200108214234 0
+Googlebot/ 18 101224 20200110114531 5
+no_user_agent 10 6855 20200110225712 0
 spider 8 42414 20200103181243 1
-Googlebot/ 2 994 20200103073545 1
+bot[\s_+:,\.\;\/\\-] 2 994 20200106070843 1
 ips\-agent 2 162 20200103103007 2
+DomainSONOCrawler/ 2 1826 20200104155006 0
 favicon 1 913 20200102132355 0
-DomainSONOCrawler/ 1 913 20200101153309 0
+MSIE[\x20]6 1 2285 20200105090509 0
+curl 1 913 20200111205400 0
 END_ROBOT
 
 # Worm ID - Hits - Bandwidth - Last visit
@@ -145,53 +152,68 @@ BEGIN_EMAILRECEIVER 0
 END_EMAILRECEIVER
 
 # Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
-BEGIN_FILETYPES 13
-css 1098 13125412 0 0
-png 121 4201541 0 0
-ttf 21 3284084 0 0
+BEGIN_FILETYPES 14
+css 3209 36613564 0 0
+png 308 12565112 0 0
+ttf 43 5606016 0 0
 woff2 1 77160 0 0
-woff 71 3533756 0 0
-php 2655 113284384 0 0
-html 1449 24029911 0 0
-js 1824 17484038 0 0
-jpg 1165 48763808 0 0
-jpeg 283 1413256 0 0
-Unknown 622 428243 0 0
-gif 21 96186 0 0
-svg 61 1037429 0 0
+woff 201 9724996 0 0
+php 7521 322858551 0 0
+html 3620 59827794 0 0
+jpg 2993 115636855 0 0
+js 5225 50356966 0 0
+m4v 5 355183661 0 0
+jpeg 953 3853299 0 0
+Unknown 1904 1435273 0 0
+svg 148 2071171 0 0
+gif 68 1216624 0 0
 END_FILETYPES
 
 # Downloads - Hits - Bandwidth
-BEGIN_DOWNLOADS 1
-/wp-content/uploads/2019/12/intro.m4v 0 282 209186797
+BEGIN_DOWNLOADS 3
+/wp-content/uploads/2020/01/test.m4v 3 121 218296161
+/wp-content/uploads/2020/01/testhero.mp4 0 14 33278090
+/wp-content/uploads/2019/12/intro.m4v 0 432 346074297
 END_DOWNLOADS
 
 # OS ID - Hits
-BEGIN_OS ID - Hits - Pages 8
-macosx 1 1
+BEGIN_OS ID - Hits - Pages 10
 linuxandroid 2 2
 winxp 2 2
-ios_iphone 774 116
-Unknown 1 0
-win10 8791 4688
-linux 101 8
-win7 2 2
+ios_iphone 1423 212
+winvista 2 2
+linux 122 11
+win7 5 5
+macosx 86 9
+win8.1 14 14
+win10 25107 13031
+Unknown 3 2
 END_OS
 
 # Browser ID - Hits - Pages
-BEGIN_BROWSER 13
-chrome79.0.3945.88 8775 4684
+BEGIN_BROWSER 23
 chrome14.0.835.186 2 2
-chrome78.0.3904.70 7 1
-chrome56.0.2924.0 94 7
+chrome41.0.2225.0 2 2
 chrome72.0.3626.119 9 3
+chrome56.0.2924.0 94 7
+chrome76.0.3809.132 1 1
 firefox55.0 1 1
-safari13.0.4 637 90
-chrome68.0.3440.106 1 1
+chrome68.0.3440.106 2 2
+chrome73.0.3683.86 2 2
+chrome41.0.2227.0 1 1
+chrome79.0.3945.117 7319 3579
+chrome78.0.3904.87 21 3
+firefox63.0 14 14
+chrome79.0.3945.88 17768 9444
+chrome74.0.3729.131 1 1
+mozilla 1 1
+chrome78.0.3904.70 14 2
+safari13.0.4 1286 186
 safari12.1.2 137 26
+safari13.0.3 85 8
+chrome41.0.2228.0 1 1
 chrome75.0.3770.142 2 2
-chrome78.0.3904.87 7 1
-Unknown 1 0
+Unknown 2 1
 chrome64.0.3282.140 1 1
 END_BROWSER
 
@@ -200,22 +222,25 @@ BEGIN_SCREENSIZE 0
 END_SCREENSIZE
 
 # Unknown referer OS - Last visit date
-BEGIN_UNKNOWNREFERER 1
+BEGIN_UNKNOWNREFERER 3
+Go-http-client/1.1 20200107003147
+Mozilla/5.0_(compatible) 20200105005822
 WordPress/5.3.2;_https://sanjin-official.com 20200102102552
 END_UNKNOWNREFERER
 
 # Unknown referer Browser - Last visit date
-BEGIN_UNKNOWNREFERERBROWSER 1
+BEGIN_UNKNOWNREFERERBROWSER 2
+Go-http-client/1.1 20200107003147
 WordPress/5.3.2;_https://sanjin-official.com 20200102102552
 END_UNKNOWNREFERERBROWSER
 
 # Origin - Pages - Hits 
 BEGIN_ORIGIN 6
-From0 147 354
+From0 196 439
 From1 0 0
 From2 0 0
 From3 0 0
-From4 4672 9320
+From4 13094 26327
 From5 0 0
 END_ORIGIN
 
@@ -239,182 +264,242 @@ BEGIN_KEYWORDS 0
 END_KEYWORDS
 
 # Errors - Hits - Bandwidth
-BEGIN_ERRORS 7
-403 2 2368
+BEGIN_ERRORS 10
+403 6 5098
+503 1 2664
+400 5 147
+302 693 913694
 201 1 10252
-302 233 212327
-499 138 0
-400 1 143
-404 22 160554
-301 271 43337
+416 1 592
+499 551 0
+444 11 0
+301 405 57601
+404 35 161425
 END_ERRORS
 
 # URL with 404 errors - Hits - Last URL referrer
 BEGIN_SIDER_404 5
 /wp-content/themes/salient/js/third-party/maps/theia-sticky-sidebar.js.map 4 -
-/wp-admin/admin-ajax.php 11 https://sanjin-official.com/wp-admin/customize.php
+/wp-admin/admin-ajax.php 24 https://sanjin-official.com/wp-admin/customize.php
 /wp-admin/undefined 1 https://sanjin-official.com/wp-admin/themes.php
-/wp-includes/js/tinymce/skins/lightgray/skin.min.css.map 1 -
 /3218-2/ 5 https://sanjin-official.com/
+/wp-includes/js/tinymce/skins/lightgray/skin.min.css.map 1 -
 END_SIDER_404
 
 # Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
 # [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
 # The 10 first Hits must be first (order not required for others)
-BEGIN_VISITOR 18
-80.216.254.18 2898 5579 263698783 20200103222700
-83.251.146.199 1831 3423 116126261 20200102194820
+BEGIN_VISITOR 32
+83.251.146.199 8346 18045 787914379 20200111213228 20200111161657 /wp-admin/admin-ajax.php
+80.216.254.18 4824 7999 371288480 20200111115245
 84.216.247.127 38 331 23433123 20200103213022
 83.254.239.25 19 54 14825943 20200102210155
+104.168.99.23 14 14 12825 20200106013113
 84.216.245.121 7 94 8543263 20200103184916
 83.185.38.44 7 83 7749015 20200101193406
 94.191.128.199 6 79 5429853 20200103210401
+185.220.101.6 2 2 11934 20200105001300
 192.185.4.40 2 2 1831 20200102131317
-65.154.226.220 2 8 43997 20200102080626
+3.133.98.85 1 7 43084 20200104184855
+18.236.221.236 1 1 913 20200107003147
+185.131.55.227 1 1 913 20200105180012
+65.154.226.100 2 8 43997 20200106084332
+178.128.226.90 1 1 0 20200111185010
+138.197.141.201 1 1 0 20200111185007
 111.7.100.20 1 1 913 20200102035551
+18.222.105.203 1 7 43084 20200110050508
+52.204.27.85 1 1 5682 20200105005822
+65.154.226.220 2 8 43997 20200102080626
 146.66.111.151 1 1 918 20200102132338
+159.203.32.136 1 1 0 20200111185005
 171.13.14.83 1 7 43084 20200103031912
 27.115.124.66 1 1 913 20200102230020
+90.129.202.123 2 4 4764 20200107141801
+142.93.157.43 1 1 0 20200111185012
 36.99.136.135 1 7 43084 20200102214818
 27.115.124.68 1 1 913 20200102225657
-54.187.205.235 1 1 2285 20200102142800
+3.80.86.239 1 1 913 20200104212045
 149.56.172.145 1 1 913 20200102105612
+54.187.205.235 1 1 2285 20200102142800
 36.99.136.133 1 1 913 20200102214815
 END_VISITOR
 
 # Date - Pages - Hits - Bandwidth - Visits
-BEGIN_DAY 3
+BEGIN_DAY 10
 20200101 448 681 76880595 5
 20200102 2352 5199 205764497 16
 20200103 2019 3512 366487710 7
+20200104 3712 7627 709856772 4
+20200105 383 571 53368918 6
+20200106 514 992 32403035 4
+20200107 4 5 5948 4
+20200108 274 312 84045264 1
+20200110 951 1224 96802648 3
+20200111 2633 6076 185544930 6
 END_DAY
 
 # Session range - Number of visits
 BEGIN_SESSION 6
-1h+ 4
-5mn-15mn 2
+1h+ 11
+5mn-15mn 3
+0s-30s 32
+15mn-30mn 5
 30s-2mn 1
-0s-30s 14
-15mn-30mn 4
 30mn-1h 3
 END_SESSION
 
 # URL - Pages - Bandwidth - Entry - Exit
 # The 10 first Pages must be first (order not required for others)
-BEGIN_SIDER 115
-/wp-admin/admin-ajax.php 2046 6222219 3 6
-/ 604 8644255 20 18
-/contact/ 354 6200329 0 0
-/wp-admin/post.php 199 66641995 0 0
-/wp-json/wc-analytics/admin/notes 144 37278 0 0
-/3197-2/ 115 1925062 0 1
-/wp-json/wp/v2/users/me 109 98286 1 0
-/wp-admin/admin.php 78 8604439 0 0
-/wp-json/wc-analytics/products 72 63713 0 0
-/wp-json/wc-analytics/orders 71 1727 0 0
-/wp-admin/post-new.php 24 8071178 0 0
-/wp-admin/load-styles.php 22 2166987 0 0
-/wp-admin/index.php 8 674198 0 0
+BEGIN_SIDER 151
+/wp-admin/admin-ajax.php 5869 11722441 4 13
+/ 1407 18377735 41 36
+/wp-admin/post.php 675 221302857 0 0
+/wp-json/wc-analytics/admin/notes 538 145560 0 0
+/shop/ 426 7813088 0 1
+/contact/ 400 7007929 0 0
+/wp-json/wp/v2/users/me 353 335895 1 0
+/news/ 294 5006339 0 0
+/wp-json/wc-analytics/products 269 253371 0 0
+/wp-json/wc-analytics/orders 268 7799 0 0
+/wp-admin/post-new.php 27 8783704 0 0
+/wp-json/wp/v2/posts/3359/autosaves 3 2273 0 0
+/wp-admin/index.php 13 1080642 0 0
+/product-category/t-shirts/ 2 29760 0 0
+/wp-json/wp/v2/posts/3363/autosaves 2 1121 0 0
+/wp-admin/async-upload.php 39 71025 0 0
+/shop/hoodie-4/ 37 789936 0 0
+/wp-json/wp/v2/posts/3344 6 4566 0 0
+/wp-json/wp/v2/posts/3363 5 4722 0 0
+/product/t-shirt/ 19 313355 0 0
+/wp-content/themes/salient/css/fonts/linecons.ttf 2 54792 0 0
+/wp-json/wp/v2/pages/3476 1 8985 0 0
+/wp-json/wp/v2/posts/3350 2 1668 0 0
+/product/tisha-4/ 3 52985 0 0
+/wp-json/wc-analytics/leaderboards 16 6545 0 0
+/new-single/ 7 92094 0 0
+/wp-json/wp/v2/taxonomies/category 3 1899 0 0
+/something/ 5 85190 0 0
+/wp-admin/about.php 1 77454 0 0
+/shop/hoodie-3/ 24 541115 0 0
+/wp-admin/term.php 1 77297 0 0
+/test/ 14 228354 0 0
+/wp-json/wp/v2/types/wp_block 1 225 0 0
+/wp-json/wp/v2/posts/3355 2 1674 0 0
+/wp-admin/load-scripts.php 99 5525440 0 0
+/logolight/ 1 16681 0 0
+/terms-conditions/ 35 861859 0 0
+/wp-admin/customize.php 74 9385951 0 0
+/wp-login.php 32 65052 10 1
+/wp-json/wp/v2/posts/3361/autosaves 2 1226 0 0
+/checkout/order-received/3559/ 1 33244 0 0
+/wp-json/wp/v2/posts/3361 9 10276 0 0
+/wp-json/wp/v2/pages 19 405229 0 0
+/wp-json/wp/v2/pages/3469 1 7775 0 0
+/product/hoodie/ 2 32623 0 0
+/wp-json/wc-analytics/reports/coupons/stats 32 7442 0 0
+/wp-json/wp/v2/pages/3218 5 3194 0 0
+/wp-json/wp/v2/posts/3352/autosaves 1 231 0 0
+/shop/hoodie-1/ 170 3408845 0 0
+/my-account/ 21 300164 0 0
+/wp-content/plugins/js_composer_salient/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.ttf 10 74640 0 0
+/checkout/ 5 227000 0 0
+/customer-service/ 33 552764 0 0
+/cart/ 47 1675414 0 0
+/wp-content/plugins/wpforms-lite/assets/fonts/fontawesome-webfont.woff2 1 77160 0 0
+/wp-admin/plugin-install.php 18 1434333 0 0
+/wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.woff 13 13728 0 0
+/privacy-police/ 20 527013 0 1
+/product/tisha-3/ 5 94299 0 0
+/wp-json/wp/v2/media/3791 1 1351 0 0
+/my-account/payment-methods/ 1 16848 0 0
+/my-account/downloads/ 1 15864 0 0
+/wp-json/wp/v2/posts/3348 2 1734 0 0
+/wp-json/wp/v2/media/3169 4 6818 0 0
+/wp-content/themes/salient/css/fonts/steadysets.ttf 26 839384 0 0
+/wp-content/themes/salient/css/fonts/fontawesome-webfont.woff 74 7253776 0 1
+/wp-json/wp/v2/users/ 84 41690 0 0
+/wp-admin/options-discussion.php 5 384483 0 0
+/wp-admin/themes.php 11 765910 0 0
+/wp-json/wc-analytics/reports/products/stats 32 8723 0 0
+/wp-admin/options-general.php 22 1731261 0 0
+/wp-json/wp/v2/media/3290 7 10317 0 0
+/wp-admin/options-privacy.php 1 74813 0 0
+/my-account/edit-account/ 2 29448 0 0
+/wp-json/wp/v2/media/3291 2 2943 0 0
+/wp-admin/load-styles.php 58 5587669 0 0
 /wp-json/wp/v2/media/3368 1 1692 0 0
 /wp-json/wp/v2/pages/3483 1 1221 0 0
-/product-category/t-shirts/ 2 29760 0 0
-/product/hoodie-1/ 22 409193 0 0
-/product/tisha-2/ 1 17660 0 0
-/wp-json/wc-analytics/reports/orders/stats 16 4360 0 0
-/wp-admin/async-upload.php 28 50909 0 0
-/product/hoodie-3/ 15 311136 0 0
+/wp-json/wc-analytics/reports/orders/stats 32 10358 0 0
+/product/tisha-2/ 2 38320 0 0
+/product/hoodie-1/ 29 572074 0 0
+/out-now/ 17 273758 0 0
+/product/hoodie-3/ 27 550011 0 0
 /wp-json/wp/v2/posts/3365/autosaves 1 735 0 0
-/wp-json/wp/v2/posts/3344 6 4566 0 0
-/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 2 37648 0 0
+/my-account/orders/ 1 16290 0 0
+/my-account/view-order/3559/ 1 16636 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 5 94120 0 0
+/wp-admin/tools.php 2 148427 0 0
+/wp-admin/ 31 2507298 0 0
 /wp-json/wp/v2/pages/3463 1 2521 0 0
-/wp-json/wp/v2/posts/3363 2 1723 0 0
-/wp-admin/ 12 1042612 0 0
+/test-6/ 1 18422 0 0
 /3218-2/ 30 489161 0 0
-/product/t-shirt/ 19 313355 0 0
-/shipping-returns/ 15 290307 0 0
-/wp-content/themes/salient/css/fonts/linecons.ttf 1 27396 0 0
-/wp-json/wp/v2/pages/3476 1 8985 0 0
-/wp-admin/plugins.php 10 835104 0 0
-/wp-json/wp/v2/posts/3350 1 826 0 0
-/product/tisha-4/ 3 52985 0 0
-/wp-json/wc-analytics/leaderboards 8 2585 0 0
-/wp-json/wp/v2/categories 1 64 0 0
+/test-5/ 1 18431 0 0
+/shipping-returns/ 28 511238 0 0
+/wp-admin/plugins.php 24 2023669 0 0
+/.well-known/captcha/ 1 11838 0 1
+/wp-json/wp/v2/categories 3 192 0 0
 /wp-admin/widgets.php 11 1094728 0 0
-/wp-json/wp/v2/taxonomies/category 1 633 0 0
-/something/ 5 85190 0 0
-/wp-admin/nav-menus.php 57 5108641 0 0
+/wp-admin/nav-menus.php 60 5387902 0 0
+/shop/tisha-2/ 1 19675 0 0
+/shop/hoodie-2/ 43 858763 0 0
 /product/tisha-1/ 3 54499 0 0
-/test/ 12 197160 0 0
-/wp-json/wp/v2/media/3065 1 1423 0 0
-/wp-json/wp/v2/posts/3355 1 829 0 0
-/wp-admin/load-scripts.php 33 1691304 0 0
-/logolight/ 1 16681 0 0
-/terms-conditions/ 34 843576 0 0
-/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 5 70880 0 0
-/wp-admin/upload.php 5 374412 0 0
-/wp-admin/customize.php 32 4136187 0 0
-/wp-content/plugins/salient-core/includes/img/nectar-editor-icons.woff 3 58440 0 0
-/wp-login.php 8 15931 4 0
-/wp-json/wp/v2/posts/3361/autosaves 1 348 0 0
-/wp-json/wp/v2/media/3177 3 5097 0 0
-/product/hoodie-2/ 6 116393 0 0
-/about/ 49 805094 0 0
-/checkout/order-received/3559/ 1 33244 0 0
-/wp-json/wp/v2/posts/3361 2 1658 0 0
-/wp-json/wp/v2/pages/3469 1 7775 0 0
-/wp-json/wp/v2/pages 6 88587 0 0
-/wp-content/plugins/js_composer_salient/assets/css/lib/vc-linecons/fonts/vc_linecons.woff 2 54616 0 0
-/wp-json/wc-analytics/reports/taxes/stats 16 3324 0 0
-/test-9/ 1 17773 0 0
-/test-10/ 3 51139 0 0
-/wp-admin/options-reading.php 5 382255 0 0
-/wp-json/wp/v2/media/3078 1 1661 0 0
+/wp-json/oembed/1.0/proxy 5 1821 0 0
+/wp-json/wp/v2/media/3065 3 4285 0 0
+/wut-up/ 12 205055 0 0
+/my-account/edit-address/ 2 60370 0 0
+/motivational-words/ 16 274099 0 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 16 226816 0 0
+/wp-content/plugins/salient-core/includes/img/nectar-editor-icons.woff 10 194800 0 0
+/wp-admin/upload.php 14 1049493 0 0
+/wp-json/wp/v2/media/3177 7 11947 0 0
+/product/hoodie-2/ 10 197462 0 0
+/about/ 102 1630137 0 0
+/wp-content/plugins/js_composer_salient/assets/css/lib/vc-linecons/fonts/vc_linecons.woff 6 163848 0 0
+/wp-json/wc-analytics/reports/taxes/stats 32 7976 0 0
+/test-9/ 6 113121 0 0
+/wp-admin/options-reading.php 12 918903 0 0
+/test-10/ 31 559998 0 0
 /some-news/ 1 17221 0 0
-/wp-json/wc-analytics/reports/performance-indicators 16 6147 0 0
-/wp-json/wp/v2/media/3289 3 4446 0 0
-/product/hoodie/ 2 32623 0 0
-/wp-json/wc-analytics/reports/downloads/stats 16 2768 0 0
-/wp-json/wc-analytics/reports/coupons/stats 16 3086 0 0
-/test-8/ 1 18002 0 0
-/wp-json/wp/v2/media/3292 1 1485 0 0
-/shop/ 51 931779 0 1
-/wp-json/wp/v2/posts/3352/autosaves 1 231 0 0
-/wp-content/plugins/js_composer_salient/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.ttf 3 22392 0 0
-/checkout/ 1 41327 0 0
-/wp-content/themes/salient/nectar/redux-framework/ReduxCore/assets/css/vendor/elusive-icons/fonts/elusiveicons-webfont.woff 2 97624 0 0
-/customer-service/ 8 138120 0 0
-/wp-admin/edit-tags.php 3 242887 0 0
-/cart/ 6 212857 0 0
-/wp-content/plugins/wpforms-lite/assets/fonts/fontawesome-webfont.woff2 1 77160 0 0
-/wp-admin/plugin-install.php 6 496310 0 0
-/wp-json/wc-analytics/reports/revenue/stats 16 4251 0 0
-/wp-json/wp/v2/posts/3359 2 1662 0 0
-/product/hoodie-4/ 2 34500 0 0
-/wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.woff 3 3168 0 0
-/privacy-police/ 11 287000 0 1
-/wp-admin/options-permalink.php 3 231730 0 0
+/wp-json/wp/v2/media/3078 1 1661 0 0
+/wp-json/wc-analytics/reports/performance-indicators 35 13600 0 0
+/wp-json/wp/v2/media/3289 6 8823 0 0
+/wp-json/wc-analytics/reports/downloads/stats 32 6779 0 0
+/wp-json/wp/v2/media/3292 2 2944 0 0
+/test-8/ 8 134624 0 0
+/wp-admin/admin.php 219 24482050 0 0
+/wp-admin/theme-editor.php 49 4359622 0 0
+/wp-content/themes/salient/nectar/redux-framework/ReduxCore/assets/css/vendor/elusive-icons/fonts/elusiveicons-webfont.woff 6 292872 0 0
+/wp-admin/edit-tags.php 13 1054346 0 0
+/wp-json/wp/v2/media/3794 2 2678 0 0
+/wp-json/wp/v2/media/3800 2 2500 0 0
+/wp-json/wc-analytics/reports/revenue/stats 32 10155 0 0
+/wp-json/wp/v2/posts/3359 8 9417 0 0
+/test-7/ 5 81536 0 0
+/product/hoodie-4/ 10 197225 0 0
+/wp-admin/options-permalink.php 13 1008379 0 0
+/wp-admin/options-writing.php 4 301513 0 0
 /wp-admin/options-media.php 1 75273 0 0
-/wp-admin/options-writing.php 2 150895 0 0
-/wp-json/wp/v2/posts/3357 1 827 0 0
-/wp-content/themes/salient/css/fonts/icomoon.woff 27 564732 0 0
-/product/tisha-3/ 3 52975 0 0
-/wp-json/wp/v2/posts/3348 1 860 0 0
-/wp-json/wp/v2/media/3169 3 5115 0 0
+/wp-json/wp/v2/posts/3357 2 1671 0 0
+/wp-content/themes/salient/css/fonts/icomoon.woff 71 1485036 0 0
+/3197-2/ 115 1925062 0 1
+/news/page/2/ 19 284160 0 0
+/shop/tisha-3/ 1 19674 0 0
+/wp-json/wp/v2/blocks 1 22 0 0
 /wp-json/contact-form-7/v1/contact-forms/3418 2 1996 0 0
-/wp-json/wp/v2/posts/3352 1 778 0 0
-/wp-json/wp/v2/taxonomies 37 30636 0 0
 /wp-json/wp/v2/taxonomies/post_tag 14 9100 0 0
-/wp-content/themes/salient/css/fonts/steadysets.ttf 14 451976 0 0
-/wp-content/themes/salient/css/fonts/iconsmind.ttf 3 2782320 0 0
-/wp-content/themes/salient/css/fonts/fontawesome-webfont.woff 27 2646648 0 1
-/wp-admin/edit.php 61 5056806 0 0
-/wp-json/wp/v2/users/ 37 18000 0 0
-/news/ 19 298943 0 0
-/wp-admin/options-discussion.php 2 153906 0 0
-/wp-admin/themes.php 5 313402 0 0
-/wp-json/wc-analytics/reports/products/stats 16 3573 0 0
-/wp-admin/options-general.php 6 492688 0 0
-/wp-json/wp/v2/posts/3365 4 3713 0 0
-/wp-json/wp/v2/media/3290 3 4467 0 0
-/wp-json/wp/v2/media/3291 1 1485 0 0
+/wp-json/wp/v2/posts/3352 2 1571 0 0
+/wp-json/wp/v2/taxonomies 84 69782 0 0
+/wp-content/themes/salient/css/fonts/iconsmind.ttf 5 4637200 0 0
+/wp-admin/edit.php 154 12883914 0 0
+/wp-json/wp/v2/posts/3365 7 6264 0 0
 END_SIDER
