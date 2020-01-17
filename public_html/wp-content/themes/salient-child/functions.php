@@ -62,7 +62,7 @@ function remove_shop_crumb( $crumbs, $breadcrumb ){
 // Rename home to store in breadcrumb WoooCommerce
 add_filter( 'woocommerce_breadcrumb_defaults', 'wcc_change_breadcrumb_home_text' );
 function wcc_change_breadcrumb_home_text( $defaults ) {
-	$defaults['home'] = 'Store';
+	$defaults['home'] = 'STORE';
 	return $defaults;
 }
 
@@ -72,6 +72,12 @@ function iconic_remove_related_products() {
     remove_action( 'woocommerce_after_single_product_summary', 'woocommerce_output_related_products', 20 );
 }
 add_action( 'init', 'iconic_remove_related_products', 10 );
+
+
+
+
+
+
 
 
 

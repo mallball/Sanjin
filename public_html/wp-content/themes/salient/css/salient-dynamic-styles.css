@@ -611,7 +611,7 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		#header-outer #top nav > ul > .button_bordered_2 > a:hover,
 		#header-outer[data-lhe="default"] #top nav > ul > .button_bordered_2 > a:hover,
 		#header-outer[data-lhe="default"] #top nav .sf-menu .button_bordered_2.current-menu-item > a {
-				color: #000000!important;
+				color: #2166ce!important;
 		}
 		
 		#top nav > ul > .button_solid_color_2 > a:before, 
@@ -622,13 +622,13 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		.woocommerce-page ul.products li.product .onsale, 
 		.woocommerce span.onsale, 
 		.woocommerce-page span.onsale {
-				background-color: #000000;
+				background-color: #2166ce;
 		}
 		
 		#header-outer .woocommerce.widget_shopping_cart .cart_list li a.remove, 
 		#header-outer .woocommerce.widget_shopping_cart .cart_list li a.remove, 
 		#header-outer:not(.transparent) #top nav > ul > .button_bordered_2 > a:hover:before {
-			border-color: #000000;
+			border-color: #2166ce;
 		}
 	
 	
@@ -651,7 +651,7 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		div[data-style="minimal"] .toggle.extra-color-1.open h3 a, 
 		div[data-style="minimal_small"] .toggle.extra-color-1 > h3 a:hover, 
 		div[data-style="minimal_small"] .toggle.extra-color-1.open > h3 a {
-			color: #000000;
+			color: #2166ce;
 		}
 		
 		
@@ -670,7 +670,7 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		 .nectar_single_testimonial[data-color="extra-color-1"] p .open-quote, 
 		 .nectar-icon-list[data-icon-color="extra-color-1"] .nectar-icon-list-item .list-icon-holder[data-icon_type="numerical"],
 		 .no-highlight.extra-color-1 h3 {
-			color: #000000!important;
+			color: #2166ce!important;
 		}
 		
 
@@ -705,7 +705,7 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		div[data-style="minimal"] .toggle.extra-color-1:hover i:before, 
 		div[data-style="minimal_small"] .toggle.extra-color-1 > h3:after,
 		.toggle.open.extra-color-1 h3 a {
-			background-color: #000000;
+			background-color: #2166ce;
 		}
 		
 		.nectar-button.regular-button.extra-color-1, 
@@ -742,37 +742,37 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		.swiper-slide .button.solid_color_2 .extra-color-1,
 		.pricing-column.highlight.extra-color-1 h3
 		{
-			background-color: #000000!important;
+			background-color: #2166ce!important;
 		}
 		
 		.nectar-leaflet-map[data-nectar-marker-color="extra-color-1"] .nectar-leaflet-pin { 
-			border: 10px solid #000000; 
+			border: 10px solid #2166ce; 
 		}
 		
 		.nectar_icon_wrap .svg-icon-holder[data-color="extra-color-1"] svg path { 
-			stroke:#000000!important; 
+			stroke:#2166ce!important; 
 		}
 		
 		body.material[data-button-style^="rounded"] .nectar-button.see-through.extra-color-1[data-color-override="false"] i:after { 
-			box-shadow: #000000 0px 8px 15px; opacity: 0.24; 
+			box-shadow: #2166ce 0px 8px 15px; opacity: 0.24; 
 		}
     .nectar_icon_wrap[data-style="shadow-bg"][data-color="extra-color-1"] .nectar_icon:before {
-      box-shadow: 0px 15px 28px #000000; opacity: 0.3; 
+      box-shadow: 0px 15px 28px #2166ce; opacity: 0.3; 
     }   
     
     .tabbed[data-style="minimal_flexible"][data-color-scheme="extra-color-1"] .wpb_tabs_nav > li a:before {
-      box-shadow: 0px 8px 22px #000000;
+      box-shadow: 0px 8px 22px #2166ce;
     } 
 		
 		.tabbed[data-style*="material"][data-color-scheme="extra-color-1"] ul li .active-tab:after { 
-			 box-shadow: 0px 18px 50px  #000000; 
+			 box-shadow: 0px 18px 50px  #2166ce; 
 		 }
 		
 		.nectar-fancy-box[data-style="color_box_hover"][data-color="extra-color-1"]:hover:before { 
-			box-shadow: 0 30px 90px #000000; 
+			box-shadow: 0 30px 90px #2166ce; 
 		} 
     .nectar-fancy-box[data-style="hover_desc"][data-color="extra-color-1"]:before {
-      background: linear-gradient(to bottom, rgba(0,0,0,0), #000000 100%);
+      background: linear-gradient(to bottom, rgba(0,0,0,0), #2166ce 100%);
     }
 		
 		body .col:not(.post-area):not(.span_12):not(#sidebar):hover .extra-color-1.hovered .circle-border, 
@@ -786,16 +786,16 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		.span_12.dark .nectar_video_lightbox.play_button_with_text[data-color="extra-color-1"] .play:before, 
 		.span_12.dark .nectar_video_lightbox.play_button_with_text[data-color="extra-color-1"] .play:after,
 		.tabbed[data-color-scheme="extra-color-1"][data-style="default"] li:not(.cta-button) .active-tab { 
-			border-color:#000000; 
+			border-color:#2166ce; 
 		}
 		
 		body.material .nectar-button.see-through.extra-color-1[data-color-override="false"] { 
-			border-color:#000000!important; 
+			border-color:#2166ce!important; 
 		}
 		
 		
 		.im-icon-wrap[data-color="extra-color-1"] path {
-				 fill: #000000;
+				 fill: #2166ce;
 		}
 		
 		
@@ -818,7 +818,7 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		div[data-style="minimal"] .toggle.extra-color-2.open h3 a, 
 		div[data-style="minimal_small"] .toggle.extra-color-2 > h3 a:hover, 
 		div[data-style="minimal_small"] .toggle.extra-color-2.open > h3 a {
-			color: #000000;
+			color: #11b5dd;
 		}
 		
 		
@@ -837,7 +837,7 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		 .nectar_single_testimonial[data-color="extra-color-2"] p .open-quote, 
 		 .nectar-icon-list[data-icon-color="extra-color-2"] .nectar-icon-list-item .list-icon-holder[data-icon_type="numerical"],
 		 .no-highlight.extra-color-2 h3 {
-			color: #000000!important;
+			color: #11b5dd!important;
 		}
 		
 
@@ -872,7 +872,7 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		div[data-style="minimal"] .toggle.extra-color-2:hover i:before, 
 		div[data-style="minimal_small"] .toggle.extra-color-2 > h3:after,
 		.toggle.open.extra-color-2 h3 a {
-			background-color: #000000;
+			background-color: #11b5dd;
 		}
 		
 		.nectar-button.regular-button.extra-color-2, 
@@ -909,37 +909,37 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		.swiper-slide .button.solid_color_2 .extra-color-2,
 		.pricing-column.highlight.extra-color-2 h3
 		{
-			background-color: #000000!important;
+			background-color: #11b5dd!important;
 		}
 		
 		.nectar-leaflet-map[data-nectar-marker-color="extra-color-2"] .nectar-leaflet-pin { 
-			border: 10px solid #000000; 
+			border: 10px solid #11b5dd; 
 		}
 		
 		.nectar_icon_wrap .svg-icon-holder[data-color="extra-color-2"] svg path { 
-			stroke:#000000!important; 
+			stroke:#11b5dd!important; 
 		}
 		
 		body.material[data-button-style^="rounded"] .nectar-button.see-through.extra-color-2[data-color-override="false"] i:after { 
-			box-shadow: #000000 0px 8px 15px; opacity: 0.24; 
+			box-shadow: #11b5dd 0px 8px 15px; opacity: 0.24; 
 		}
     .nectar_icon_wrap[data-style="shadow-bg"][data-color="extra-color-2"] .nectar_icon:before {
-      box-shadow: 0px 15px 28px #000000; opacity: 0.3; 
+      box-shadow: 0px 15px 28px #11b5dd; opacity: 0.3; 
     }   
     
     .tabbed[data-style="minimal_flexible"][data-color-scheme="extra-color-2"] .wpb_tabs_nav > li a:before {
-      box-shadow: 0px 8px 22px #000000;
+      box-shadow: 0px 8px 22px #11b5dd;
     } 
 		
 		.tabbed[data-style*="material"][data-color-scheme="extra-color-2"] ul li .active-tab:after { 
-			 box-shadow: 0px 18px 50px  #000000; 
+			 box-shadow: 0px 18px 50px  #11b5dd; 
 		 }
 		
 		.nectar-fancy-box[data-style="color_box_hover"][data-color="extra-color-2"]:hover:before { 
-			box-shadow: 0 30px 90px #000000; 
+			box-shadow: 0 30px 90px #11b5dd; 
 		} 
     .nectar-fancy-box[data-style="hover_desc"][data-color="extra-color-2"]:before {
-      background: linear-gradient(to bottom, rgba(0,0,0,0), #000000 100%);
+      background: linear-gradient(to bottom, rgba(0,0,0,0), #11b5dd 100%);
     }
 		
 		body .col:not(.post-area):not(.span_12):not(#sidebar):hover .extra-color-2.hovered .circle-border, 
@@ -953,16 +953,16 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		.span_12.dark .nectar_video_lightbox.play_button_with_text[data-color="extra-color-2"] .play:before, 
 		.span_12.dark .nectar_video_lightbox.play_button_with_text[data-color="extra-color-2"] .play:after,
 		.tabbed[data-color-scheme="extra-color-2"][data-style="default"] li:not(.cta-button) .active-tab { 
-			border-color:#000000; 
+			border-color:#11b5dd; 
 		}
 		
 		body.material .nectar-button.see-through.extra-color-2[data-color-override="false"] { 
-			border-color:#000000!important; 
+			border-color:#11b5dd!important; 
 		}
 		
 		
 		.im-icon-wrap[data-color="extra-color-2"] path {
-				 fill: #000000;
+				 fill: #11b5dd;
 		}
 		
 		
@@ -985,7 +985,7 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		div[data-style="minimal"] .toggle.extra-color-3.open h3 a, 
 		div[data-style="minimal_small"] .toggle.extra-color-3 > h3 a:hover, 
 		div[data-style="minimal_small"] .toggle.extra-color-3.open > h3 a {
-			color: #000000;
+			color: #dd3333;
 		}
 		
 		
@@ -1004,7 +1004,7 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		 .nectar_single_testimonial[data-color="extra-color-3"] p .open-quote, 
 		 .nectar-icon-list[data-icon-color="extra-color-3"] .nectar-icon-list-item .list-icon-holder[data-icon_type="numerical"],
 		 .no-highlight.extra-color-3 h3 {
-			color: #000000!important;
+			color: #dd3333!important;
 		}
 		
 
@@ -1039,7 +1039,7 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		div[data-style="minimal"] .toggle.extra-color-3:hover i:before, 
 		div[data-style="minimal_small"] .toggle.extra-color-3 > h3:after,
 		.toggle.open.extra-color-3 h3 a {
-			background-color: #000000;
+			background-color: #dd3333;
 		}
 		
 		.nectar-button.regular-button.extra-color-3, 
@@ -1076,37 +1076,37 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		.swiper-slide .button.solid_color_2 .extra-color-3,
 		.pricing-column.highlight.extra-color-3 h3
 		{
-			background-color: #000000!important;
+			background-color: #dd3333!important;
 		}
 		
 		.nectar-leaflet-map[data-nectar-marker-color="extra-color-3"] .nectar-leaflet-pin { 
-			border: 10px solid #000000; 
+			border: 10px solid #dd3333; 
 		}
 		
 		.nectar_icon_wrap .svg-icon-holder[data-color="extra-color-3"] svg path { 
-			stroke:#000000!important; 
+			stroke:#dd3333!important; 
 		}
 		
 		body.material[data-button-style^="rounded"] .nectar-button.see-through.extra-color-3[data-color-override="false"] i:after { 
-			box-shadow: #000000 0px 8px 15px; opacity: 0.24; 
+			box-shadow: #dd3333 0px 8px 15px; opacity: 0.24; 
 		}
     .nectar_icon_wrap[data-style="shadow-bg"][data-color="extra-color-3"] .nectar_icon:before {
-      box-shadow: 0px 15px 28px #000000; opacity: 0.3; 
+      box-shadow: 0px 15px 28px #dd3333; opacity: 0.3; 
     }   
     
     .tabbed[data-style="minimal_flexible"][data-color-scheme="extra-color-3"] .wpb_tabs_nav > li a:before {
-      box-shadow: 0px 8px 22px #000000;
+      box-shadow: 0px 8px 22px #dd3333;
     } 
 		
 		.tabbed[data-style*="material"][data-color-scheme="extra-color-3"] ul li .active-tab:after { 
-			 box-shadow: 0px 18px 50px  #000000; 
+			 box-shadow: 0px 18px 50px  #dd3333; 
 		 }
 		
 		.nectar-fancy-box[data-style="color_box_hover"][data-color="extra-color-3"]:hover:before { 
-			box-shadow: 0 30px 90px #000000; 
+			box-shadow: 0 30px 90px #dd3333; 
 		} 
     .nectar-fancy-box[data-style="hover_desc"][data-color="extra-color-3"]:before {
-      background: linear-gradient(to bottom, rgba(0,0,0,0), #000000 100%);
+      background: linear-gradient(to bottom, rgba(0,0,0,0), #dd3333 100%);
     }
 		
 		body .col:not(.post-area):not(.span_12):not(#sidebar):hover .extra-color-3.hovered .circle-border, 
@@ -1120,21 +1120,21 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		.span_12.dark .nectar_video_lightbox.play_button_with_text[data-color="extra-color-3"] .play:before, 
 		.span_12.dark .nectar_video_lightbox.play_button_with_text[data-color="extra-color-3"] .play:after,
 		.tabbed[data-color-scheme="extra-color-3"][data-style="default"] li:not(.cta-button) .active-tab { 
-			border-color:#000000; 
+			border-color:#dd3333; 
 		}
 		
 		body.material .nectar-button.see-through.extra-color-3[data-color-override="false"] { 
-			border-color:#000000!important; 
+			border-color:#dd3333!important; 
 		}
 		
 		
 		.im-icon-wrap[data-color="extra-color-3"] path {
-				 fill: #000000;
+				 fill: #dd3333;
 		}
 		
 		.widget .nectar_widget[class*="nectar_blog_posts_"][data-style="hover-featured-image-gradient-and-counter"] > li a .popular-featured-img:after {
-		background: #000cff; 
-		background: linear-gradient(to right, #000cff, #ff0745); 
+		background: #8d00e5; 
+		background: linear-gradient(to right, #8d00e5, #ff1053); 
 	}.divider-small-border[data-color="extra-color-gradient-1"], 
 		.divider-border[data-color="extra-color-gradient-1"], 
 		.nectar-progress-bar .extra-color-gradient-1,
@@ -1142,8 +1142,8 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		.tabbed[data-style="minimal_alt"][data-color-scheme="extra-color-gradient-1"] .magic-line,
 		.nectar-recent-posts-single_featured.multiple_featured .controls[data-color="extra-color-gradient-1"] li:after, 
 		.nectar-fancy-box[data-style="default"][data-color="extra-color-gradient-1"]:after {
-			background: #ff0745; 
-		  background: linear-gradient(to right, #ff0745, #000cff); 
+			background: #ff1053; 
+		  background: linear-gradient(to right, #ff1053, #8d00e5); 
 		}
 		
 		.icon-normal.extra-color-gradient-1, 
@@ -1160,45 +1160,45 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		.nectar_icon_wrap[data-style="soft-bg"][data-color="extra-color-gradient-1"] .nectar_icon:before,
     .nectar_icon_wrap[data-style="shadow-bg"][data-color="extra-color-gradient-1"] .nectar_icon:after,
     .nectar-post-grid-wrap[data-load-more-color="extra-color-gradient-1"] .load-more:before {
-			 background: #ff0745; 
-		   background: linear-gradient(to bottom right, #ff0745, #000cff); 
+			 background: #ff1053; 
+		   background: linear-gradient(to bottom right, #ff1053, #8d00e5); 
 		}
 		
 		body.material .nectar-button.regular.m-extra-color-gradient-1, 
 		body.material .nectar-button.see-through.m-extra-color-gradient-1:before,
 		.swiper-slide .button.solid_color .extra-color-gradient-1, 
 		.swiper-slide .button.transparent_2 .extra-color-gradient-1:before {
-			 background: #ff0745; 
-		   background: linear-gradient(125deg, #ff0745, #000cff);
+			 background: #ff1053; 
+		   background: linear-gradient(125deg, #ff1053, #8d00e5);
 		}
 		body.material .nectar-button.regular.m-extra-color-gradient-1:before {
-			 background: #000cff; 
+			 background: #8d00e5; 
 		}
 		
 		.tabbed[data-style*="material"][data-color-scheme="extra-color-gradient-1"] ul:after { 
-			background-color: #000cff;
+			background-color: #8d00e5;
 		}
 		
 		.tabbed[data-style*="material"][data-color-scheme="extra-color-gradient-1"] ul li .active-tab:after { 
-			box-shadow: 0px 18px 50px #000cff; 
+			box-shadow: 0px 18px 50px #8d00e5; 
 		}
 		
 		.nectar-fancy-box[data-style="color_box_hover"][data-color="extra-color-gradient-1"]:hover:before { 
-			box-shadow: 0px 30px 90px #000cff; 
+			box-shadow: 0px 30px 90px #8d00e5; 
 		}
     
     .tabbed[data-style="minimal_flexible"][data-color-scheme="extra-color-gradient-1"] .wpb_tabs_nav > li a:before {
-      box-shadow: 0px 8px 22px #000cff;
+      box-shadow: 0px 8px 22px #8d00e5;
     } 
     
     .nectar_icon_wrap[data-style="shadow-bg"][data-color="extra-color-gradient-1"] .nectar_icon:before {
-      box-shadow: 0px 15px 28px #000cff; opacity: 0.3; 
+      box-shadow: 0px 15px 28px #8d00e5; opacity: 0.3; 
     }  
 		
 		
 		.testimonial_slider[data-rating-color="extra-color-gradient-1"] .star-rating .filled:before {
-			 color: #ff0745;
-			 background: linear-gradient(to right, #ff0745, #000cff); 
+			 color: #ff1053;
+			 background: linear-gradient(to right, #ff1053, #8d00e5); 
 			 -webkit-background-clip: text;
 			 -webkit-text-fill-color: transparent;
 			 background-clip: text;
@@ -1209,20 +1209,20 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		.nectar-button.see-through-extra-color-gradient-1 {
 			 border-width: 3px;
 			 border-style: solid;
-		   -moz-border-image: -moz-linear-gradient(top right, #ff0745 0%, #000cff 100%);
-		   -webkit-border-image: -webkit-linear-gradient(top right, #ff0745 0%,#000cff 100%);
-		   border-image: linear-gradient(to bottom right, #ff0745 0%, #000cff 100%);
+		   -moz-border-image: -moz-linear-gradient(top right, #ff1053 0%, #8d00e5 100%);
+		   -webkit-border-image: -webkit-linear-gradient(top right, #ff1053 0%,#8d00e5 100%);
+		   border-image: linear-gradient(to bottom right, #ff1053 0%, #8d00e5 100%);
 		   border-image-slice: 1;
 		}
 		
 		.nectar-gradient-text[data-color="extra-color-gradient-1"][data-direction="horizontal"] * { 
-			background-image: linear-gradient(to right, #ff0745, #000cff);  
+			background-image: linear-gradient(to right, #ff1053, #8d00e5);  
 		}
 		
 		.nectar-gradient-text[data-color="extra-color-gradient-1"] *, 
 		.nectar-icon-list[data-icon-style="border"][data-icon-color="extra-color-gradient-1"] .list-icon-holder[data-icon_type="numerical"] span {
-			 color: #ff0745;
-			 background: linear-gradient(to bottom right, #ff0745, #000cff); 
+			 color: #ff1053;
+			 background: linear-gradient(to bottom right, #ff1053, #8d00e5); 
 			 -webkit-background-clip: text;
 			 -webkit-text-fill-color: transparent;
 			 background-clip: text;
@@ -1235,8 +1235,8 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		[class^="icon-"].extra-color-gradient-1:not(.icon-normal):before, 
 		[class*=" icon-"].extra-color-gradient-1:not(.icon-normal):before,
 		.nectar_icon_wrap[data-color="extra-color-gradient-1"]:not([data-style="shadow-bg"]) i {
-			  color: #ff0745;
-			  background: linear-gradient(to bottom right, #ff0745, #000cff); 
+			  color: #ff1053;
+			  background: linear-gradient(to bottom right, #ff1053, #8d00e5); 
 			  -webkit-background-clip: text;
 			  -webkit-text-fill-color: transparent;
 			  background-clip: text;
@@ -1245,8 +1245,8 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		}
 		.nectar-button.extra-color-gradient-1 .hover, 
 		.nectar-button.see-through-extra-color-gradient-1 .start {
-			  background: #ff0745; 
-			  background: linear-gradient(to bottom right, #ff0745, #000cff); 
+			  background: #ff1053; 
+			  background: linear-gradient(to bottom right, #ff1053, #8d00e5); 
 			  -webkit-background-clip: text;
 			  -webkit-text-fill-color: transparent;
 			  background-clip: text;
@@ -1257,7 +1257,7 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 		.nectar-button.extra-color-gradient-1.no-text-grad .hover, 
 		.nectar-button.see-through-extra-color-gradient-1.no-text-grad .start {
 			 background: transparent!important;
-			 color: #ff0745!important; 
+			 color: #ff1053!important; 
 		}.divider-small-border[data-color="extra-color-gradient-2"], 
 		.divider-border[data-color="extra-color-gradient-2"], 
 		.nectar-progress-bar .extra-color-gradient-2,
@@ -2374,18 +2374,63 @@ body .dark .testimonial_slider[data-style="multiple_visible"][data-color*="accen
 			}
 			@media only screen and (max-width: 690px) {
 				body .row .col.section-title h1, body h1, html body .row .col.section-title.span_12 h1, .full-width-content .nectar-recent-posts-slider .recent-post-container .inner-wrap h2 {
-					font-size: 10.5px;
-					line-height: 10.5px;
+					font-size: 19.5px;
+					line-height: 19.5px;
 				}
 				
 				.wpb_wrapper h1.vc_custom_heading {
-					font-size: 10.5px!important;
-					line-height: 10.5px!important;
+					font-size: 19.5px!important;
+					line-height: 19.5px!important;
 				}
 
 			}
 
 	
+	#page-header-bg h2, body h2, article.post .post-header h2, article.post.quote .post-content h2, 
+		article.post.link .post-content h2, #call-to-action span, .woocommerce .full-width-tabs #reviews h3, 
+		.row .col.section-title h2, .nectar_single_testimonial[data-style="bold"] p,
+		.woocommerce-account .woocommerce > #customer_login .nectar-form-controls .control,
+		body #error-404 h2, .woocommerce-page .woocommerce p.cart-empty { font-family: Open Sans;  }		
+		.single-product div.product h1.product_title {
+			font-size: 34px;
+			line-height: 42px;
+		}
+		
+		@media only screen and (max-width: 1300px) and (min-width: 1000px) {
+		 	body h2, .single-product div.product h1.product_title {
+		 		font-size: 28.9px;
+				line-height: 35.7px;
+			}
+			.row .span_2 h2, .row .span_3 h2, .row .span_4 h2, .row .vc_col-sm-2 h2, .row .vc_col-sm-3 h2, .row .vc_col-sm-4 h2 { 
+				font-size: 23.8px;
+				line-height: 29.4px;
+			}
+			
+		}
+
+		@media only screen and (max-width: 999px) and (min-width: 690px) {
+		.col h2, h2, .single-product div.product h1.product_title, .woocommerce-account .woocommerce > #customer_login .nectar-form-controls .control {
+				font-size: 27.2px;
+				line-height: 33.6px;
+			}
+			.wpb_wrapper h2.vc_custom_heading {
+				font-size: 27.2px!important;
+				line-height: 33.6px!important;
+			}
+			
+		}
+
+		@media only screen and (max-width: 690px) {
+		.col h2, h2, .single-product div.product h1.product_title, .woocommerce-account .woocommerce > #customer_login .nectar-form-controls .control {
+				font-size: 23.8px;
+				line-height: 29.4px;
+			}
+			.wpb_wrapper h2.vc_custom_heading {
+				font-size: 23.8px!important;
+				line-height: 29.4px!important;
+			}
+		}
+		
 		
 	
 		

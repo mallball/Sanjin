@@ -1,0 +1,30 @@
+2020-01-14T11:10:26+00:00 CRITICAL syntax error, unexpected '@' in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/myPlugin.php on line 49
+
+2020-01-14T11:10:28+00:00 CRITICAL syntax error, unexpected '@' in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/myPlugin.php on line 49
+
+2020-01-14T11:10:28+00:00 CRITICAL syntax error, unexpected '@' in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/myPlugin.php on line 49
+
+2020-01-14T11:11:07+00:00 CRITICAL syntax error, unexpected '@' in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/myPlugin.php on line 49
+
+2020-01-14T11:11:09+00:00 CRITICAL syntax error, unexpected '@' in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/myPlugin.php on line 49
+
+2020-01-14T11:11:10+00:00 CRITICAL syntax error, unexpected '@' in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/myPlugin.php on line 49
+
+2020-01-14T13:57:09+00:00 CRITICAL Cannot redeclare cf_shortcode() (previously declared in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/myPlugin.php:60) in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/test/test.php on line 36
+
+2020-01-14T13:57:18+00:00 CRITICAL Cannot redeclare cf_shortcode() (previously declared in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/myPlugin.php:60) in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/test/test.php on line 36
+
+2020-01-14T13:57:18+00:00 CRITICAL Cannot redeclare cf_shortcode() (previously declared in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/myPlugin.php:60) in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/test/test.php on line 36
+
+2020-01-14T14:06:04+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/test.php on line 18
+
+2020-01-14T14:06:08+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/test.php on line 18
+
+2020-01-14T14:06:08+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/test.php on line 18
+
+2020-01-14T14:07:27+00:00 CRITICAL Cannot redeclare html_form_code() (previously declared in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/myPlugin.php:15) in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/test.php on line 21
+
+2020-01-14T14:07:28+00:00 CRITICAL Cannot redeclare html_form_code() (previously declared in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/myPlugin.php:15) in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/test.php on line 21
+
+2020-01-14T14:07:28+00:00 CRITICAL Cannot redeclare html_form_code() (previously declared in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/myPlugin.php:15) in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/test.php on line 21
+

@@ -127,6 +127,7 @@ get_header(); ?>
 			</div><!--/posts container-->
 				
 			<?php nectar_pagination(); ?>
+		
 				
 		</div><!--/post-area-->
 		

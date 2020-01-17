@@ -25,3 +25,37 @@
 [12-Jan-2020 16:52:55 UTC] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home/customer/www/sanjin-official.com/public_html/wp-content/themes/salient-child/functions.php on line 69
 [12-Jan-2020 17:25:38 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/customer/www/sanjin-official.com/public_html/wp-content/themes/salient-child/functions.php on line 78
 [12-Jan-2020 17:26:05 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/customer/www/sanjin-official.com/public_html/wp-content/themes/salient-child/functions.php on line 78
+[13-Jan-2020 11:05:41 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/customer/www/sanjin-official.com/public_html/wp-content/themes/salient-child/functions.php on line 81
+[13-Jan-2020 11:05:48 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/customer/www/sanjin-official.com/public_html/wp-content/themes/salient-child/functions.php on line 81
+[14-Jan-2020 11:10:26 UTC] PHP Parse error:  syntax error, unexpected '@' in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/myPlugin.php on line 49
+[14-Jan-2020 11:10:28 UTC] PHP Parse error:  syntax error, unexpected '@' in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/myPlugin.php on line 49
+[14-Jan-2020 11:10:28 UTC] PHP Parse error:  syntax error, unexpected '@' in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/myPlugin.php on line 49
+[14-Jan-2020 11:11:07 UTC] PHP Parse error:  syntax error, unexpected '@' in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/myPlugin.php on line 49
+[14-Jan-2020 11:11:09 UTC] PHP Parse error:  syntax error, unexpected '@' in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/myPlugin.php on line 49
+[14-Jan-2020 11:11:10 UTC] PHP Parse error:  syntax error, unexpected '@' in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/myPlugin.php on line 49
+[14-Jan-2020 13:57:09 UTC] PHP Fatal error:  Cannot redeclare cf_shortcode() (previously declared in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/myPlugin.php:60) in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/test/test.php on line 36
+[14-Jan-2020 13:57:18 UTC] PHP Fatal error:  Cannot redeclare cf_shortcode() (previously declared in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/myPlugin.php:60) in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/test/test.php on line 36
+[14-Jan-2020 13:57:18 UTC] PHP Fatal error:  Cannot redeclare cf_shortcode() (previously declared in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/myPlugin.php:60) in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/test/test.php on line 36
+[14-Jan-2020 13:58:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/test/test.php:31) in /home/customer/www/sanjin-official.com/public_html/wp-includes/functions.php on line 6029
+[14-Jan-2020 13:59:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/test/test.php:31) in /home/customer/www/sanjin-official.com/public_html/wp-includes/http.php on line 494
+[14-Jan-2020 14:01:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/test/test.php:31) in /home/customer/www/sanjin-official.com/public_html/wp-includes/http.php on line 494
+[14-Jan-2020 14:03:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/test/test.php:31) in /home/customer/www/sanjin-official.com/public_html/wp-includes/http.php on line 494
+[14-Jan-2020 14:05:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/test/test.php:31) in /home/customer/www/sanjin-official.com/public_html/wp-includes/http.php on line 494
+[14-Jan-2020 14:06:04 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/test.php on line 18
+[14-Jan-2020 14:06:08 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/test.php on line 18
+[14-Jan-2020 14:06:08 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/test.php on line 18
+[14-Jan-2020 14:07:27 UTC] PHP Fatal error:  Cannot redeclare html_form_code() (previously declared in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/myPlugin.php:15) in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/test.php on line 21
+[14-Jan-2020 14:07:28 UTC] PHP Fatal error:  Cannot redeclare html_form_code() (previously declared in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/myPlugin.php:15) in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/test.php on line 21
+[14-Jan-2020 14:07:28 UTC] PHP Fatal error:  Cannot redeclare html_form_code() (previously declared in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/myPlugin.php:15) in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/test.php on line 21
+[14-Jan-2020 14:08:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/test.php:53) in /home/customer/www/sanjin-official.com/public_html/wp-includes/functions.php on line 6029
+[14-Jan-2020 14:23:10 UTC] PHP Fatal error:  Uncaught Error: Class 'anr_captcha_class' not found in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/advanced-nocaptcha-recaptcha/functions.php:184
+Stack trace:
+#0 /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/advanced-nocaptcha-recaptcha/functions.php(177): anr_captcha_form_field(true)
+#1 /home/customer/www/sanjin-official.com/public_html/wp-includes/class-wp-hook.php(288): ANR->{closure}('')
+#2 /home/customer/www/sanjin-official.com/public_html/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#3 /home/customer/www/sanjin-official.com/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/myPlugin.php(71): do_action('anr_captcha_for...')
+#5 /home/customer/www/sanjin-official.com/public_html/wp-settings.php(360): include_once('/home/customer/...')
+#6 /home/customer/www/sanjin-official.com/public_html/wp-config.php(78): require_once('/home/customer/...')
+#7 / in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/advanced-nocaptcha-recaptcha/functions.php on line 184
+[14-Jan-2020 14:31:33 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/customer/www/sanjin-official.com/public_html/wp-content/plugins/myPlugin.php on line 29
