@@ -43,7 +43,7 @@ function deliver_mail() {
         $message = esc_textarea( $_POST["cf-message"] );
 
         // email address
-        $to = 'malin.hamrin86@hotmail.com';
+        $to = 'info@sanjin-official.com';
 
         $headers = "From: $name <$email>" . "\r\n";
 

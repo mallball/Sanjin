@@ -4,6 +4,7 @@ function enqueue_parent_styles() {
    wp_enqueue_style( 'parent-style', get_template_directory_uri().'/style.css' );
 }
 
+
 // Remove additional information tab WooCommerce
 add_filter( 'woocommerce_product_tabs', 'remove_info_tab', 98);
 function remove_info_tab($tabs) {
@@ -74,10 +75,17 @@ function iconic_remove_related_products() {
 add_action( 'init', 'iconic_remove_related_products', 10 );
 
 
-
-
-
-
+// Change 'Options' to 'take a look'
+add_filter( 'woocommerce_product_add_to_cart_text' , 'custom_woocommerce_product_add_to_cart_text' );
+function custom_woocommerce_product_add_to_cart_text() {
+    global $product;    
+    $product_type = $product->product_type;  
+    switch ( $product_type ) {
+case 'variable':
+            return __( 'TAKE A LOOK', 'woocommerce' );
+        break;
+}
+} 
 
 
 

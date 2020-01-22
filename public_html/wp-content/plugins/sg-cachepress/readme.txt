@@ -171,6 +171,9 @@ Our plugin uses a cookie in order to function properly. It does not store person
 
 == Changelog ==
 
+= Version 5.4.2 =
+* Fixed bug with WebP image regeneration on image delete
+
 = Version 5.4.1 =
 * Added PHP 7.4 support for PHP Compatibility Checker
 * Improved WebP Conversion

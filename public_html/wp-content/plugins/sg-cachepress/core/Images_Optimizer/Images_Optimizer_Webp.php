@@ -35,15 +35,13 @@ class Images_Optimizer_Webp {
 		add_action( 'wp_ajax_siteground_optimizer_start_webp_conversion', array( $this, 'start_conversion' ) );
 		add_action( 'siteground_optimizer_start_webp_conversion_cron', array( $this, 'start_conversion' ) );
 
-		add_action( 'delete_attachment', array( $this, 'delete_webp_copy' ) );
-		add_action( 'edit_attachment', array( $this, 'regenerate_webp_copy' ) );
-
-
 		// Optimize newly uploaded images.
 		if (
 			Options::is_enabled( 'siteground_optimizer_webp_support' ) &&
 			0 === Helper::is_cron_disabled()
 		) {
+			add_action( 'delete_attachment', array( $this, 'delete_webp_copy' ) );
+			add_action( 'edit_attachment', array( $this, 'regenerate_webp_copy' ) );
 			add_action( 'wp_generate_attachment_metadata', array( $this, 'optimize_new_image' ), 10, 2 );
 		} else {
 			add_action( 'wp_generate_attachment_metadata', array( $this, 'maybe_update_total_non_converted_images' ) );
@@ -437,12 +435,14 @@ class Images_Optimizer_Webp {
 		$files = array( $main_image . '.webp' );
 		$basename = basename( $main_image );
 
-		// Loop through all image sizes and optimize them as well.
-		foreach ( $metadata['sizes'] as $size ) {
-			$sizes[] = str_replace( $basename, $size['file'], $main_image ) . '.webp';
+		if ( ! empty( $metadata['sizes'] ) ) {
+			// Loop through all image sizes and optimize them as well.
+			foreach ( $metadata['sizes'] as $size ) {
+				$files[] = str_replace( $basename, $size['file'], $main_image ) . '.webp';
+			}
 		}
 
-		exec( 'rm ' . implode( ' ', $sizes ) );
+		exec( 'rm ' . implode( ' ', $files ) );
 	}
 
 	/**

@@ -1,3 +1,45 @@
+# BEGIN HMWP_RULES
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^([_0-9a-zA-Z-]+/)?newlogin$ /wp-login.php$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?newlogin/(.*) /wp-login.php$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?lostpass$ /wp-login.php?action=lostpassword$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?signup$ /wp-login.php?action=register$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/d0f4711431/(.*) /wp-content/plugins/hide-my-wp/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/5915185ffd/(.*) /wp-content/plugins/advanced-nocaptcha-recaptcha/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/eff62dc594/(.*) /wp-content/plugins/cookie-notice/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/8fb9896f3f/(.*) /wp-content/plugins/js_composer_salient/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/0166a48a32/(.*) /wp-content/plugins/./$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/be40c7bb56/(.*) /wp-content/plugins/password-protected/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/702acbaf32/(.*) /wp-content/plugins/salient-core/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/5b16a3d094/(.*) /wp-content/plugins/salient-nectar-slider/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/e17edbd5e5/(.*) /wp-content/plugins/salient-portfolio/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/6202f41c6e/(.*) /wp-content/plugins/salient-shortcodes/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/4d8a14856f/(.*) /wp-content/plugins/salient-social/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/271a20ab7a/(.*) /wp-content/plugins/salient-widgets/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/618be400f0/(.*) /wp-content/plugins/sg-cachepress/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/878c45e6ef/(.*) /wp-content/plugins/social-login-lite-for-woocommerce/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/2c137f0be3/(.*) /wp-content/plugins/woo-variation-swatches/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/ff4e385879/(.*) /wp-content/plugins/woocommerce-admin/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/c5d6c920a8/(.*) /wp-content/plugins/woocommerce-authorizenet-aim-gateway/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/52933b399d/(.*) /wp-content/plugins/woocommerce-gateway-stripe/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/171cc5e5af/(.*) /wp-content/plugins/woocommerce-services/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/39d10ee62c/(.*) /wp-content/plugins/woocommerce/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/c313883c11/(.*) /wp-content/plugins/wp-optimize/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/modules/(.*) /wp-content/plugins/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/assets/0aa5c08a60/(.*) /wp-content/themes/salient-child/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/assets/325256f28f/(.*) /wp-content/themes/salient/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/assets/(.*) /wp-content/themes/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?storage/(.*) /wp-content/uploads/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?core/(.*) /wp-content/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?lib/(.*) /wp-includes/$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?comments/(.*) /wp-comments-post.php$2 [QSA,L]
+RewriteRule ^([_0-9a-zA-Z-]+/)?writer/(.*) /author/$2 [QSA,L]
+</IfModule>
+
+
+# END HMWP_RULES
 # BEGIN WordPress
 # The directives (lines) between `BEGIN WordPress` and `END WordPress` are
 # dynamically generated, and should only be modified via WordPress filters.
