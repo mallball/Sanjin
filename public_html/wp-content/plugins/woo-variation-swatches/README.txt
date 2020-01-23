@@ -6,7 +6,7 @@ Tested up to: 5.3
 Requires PHP: 5.6
 Stable tag: trunk
 WC requires at least: 3.2
-WC tested up to: 3.8
+WC tested up to: 3.9
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -381,6 +381,11 @@ And your are ready to go.
 12. Global Variation Color Swatches Attribute List Preview
 
 == Changelog ==
+
+= 1.0.72 =
+
+* Add: Namespace on themes events
+* Fix: WooCommerce Product bundle Issue.
 
 = 1.0.71 =
 
